@@ -1,0 +1,6 @@
+plugin/
+sessions/
+compiled.lua
+
+*.old
+*.bak
